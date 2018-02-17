@@ -1,3 +1,3 @@
 #--new file--##
-touch tmp/myfirstjenkin/newfile
-touch tmp/myfirstjenkin/secondfile
+mkdir tmp/myfirstjenkin/newfile
+
