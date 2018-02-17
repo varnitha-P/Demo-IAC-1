@@ -1,3 +1,3 @@
 #--new file--##
-mkdir tmp/myfirstjenkin/newfile
+mkdir tmp/jenkin/
 
